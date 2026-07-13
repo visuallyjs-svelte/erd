@@ -1,4 +1,4 @@
-import {PlainArrowOverlay, EdgePropertyMappings} from "@visuallyjs/browser-ui";
+import {PlainArrowOverlay, type EdgePropertyMappings} from "@visuallyjs/browser-ui";
 import {OneOverlay, OneOrManyOverlay} from "./erd-overlays";
 
 /**
